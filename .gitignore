@@ -16,3 +16,6 @@ node_modules
 # UI/UX Pro Max skill (kept local, not pushed)
 /ui-ux-pro-max-skill/
 /.claude/
+
+# Static export output (uploaded manually to Hostinger)
+/out/
